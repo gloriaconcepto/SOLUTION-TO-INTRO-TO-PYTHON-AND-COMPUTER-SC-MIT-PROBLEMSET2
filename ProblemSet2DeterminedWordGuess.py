@@ -70,7 +70,7 @@ def is_word_guessed(secret_word ,letters_guessed):
         if i in secret_word:
            # if char == i:
           counter +=1
-          print(counter)
+          #print(counter)
 
 
     #check if the length of secret_word  matches counter number
